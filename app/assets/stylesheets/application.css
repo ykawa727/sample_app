@@ -82,7 +82,7 @@ main{
 
 .list-body{
   display: block;
-  
+
   color: gray;
   font-size: 12px;
   overflow: hidden;
@@ -92,10 +92,10 @@ main{
 
 .list-title{
   display: block;
-  
+
   font-size: 18px;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  
+
 }
